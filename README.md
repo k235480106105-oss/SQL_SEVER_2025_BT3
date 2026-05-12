@@ -25,7 +25,7 @@ Thêm danh sách tài sản
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3c76c91-82f5-44b8-a213-22dca4d5ccc2" />
 
 4. Thêm khách hàng
-5. <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb05c391-7e75-4b87-a91b-9f5a87ffcbd7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb05c391-7e75-4b87-a91b-9f5a87ffcbd7" />
 
 5. Tính số tiền thay đổi ở những thời điểm khác nhau
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3add7c5c-afdd-441b-85a6-476054409dc3" />
